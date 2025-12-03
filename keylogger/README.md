@@ -62,7 +62,7 @@ Run any script individually:
 python Control.py
 python main.py
 python mouseListener.py
-
+```
 ---
 
 ## How It Works
